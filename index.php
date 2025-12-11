@@ -47,7 +47,7 @@
 
 
     <div class="full-screen-portfolio" id="portfolio">
-        <div class="container-fluid">
+        <div class="container-fluid row">
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
                     <a href="img/portfolio_1.webp" data-lightbox="image-1"><div class="thumb">
