@@ -9,7 +9,7 @@
       <div class="modal-content">
         <!-- Modal Header -->
         <div class="modal-header">
-          <h3 class="header-title">Say hello to <em>Highway</em></h3>
+          <h3 class="header-title">Say hello to <em>DnD</em></h3>
           <div class="close-btn"><img src="img/close_contact.png" alt=""></div>    
         </div>
         <!-- Modal Body -->
