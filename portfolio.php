@@ -66,17 +66,51 @@ https://templatemo.com/tm-520-highway
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
-                <div class="portfolio-item">
-                    <a href="img/portfolio_2.webp" data-lightbox="image-1">
+                <div   class="portfolio-item ">
+                    <a href="luxury.php">
                         <div class="thumb">
                             <div class="hover-effect">
                                 <div class="hover-content">
-                                    <h1>Project <em>Title</em></h1>
-                                    <p>Small Description Goes Here</p>
+                                    <h1>Luxury <em>Apartment</em></h1>
+                                    <!-- <p>Small Description Goes Here</p> -->
                                 </div>
                             </div>
                             <div class="image">
-                                <img src="img/portfolio_2.webp">
+                                <img src="img/portfolio/commercial/luxury/6.webp">
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div   class="portfolio-item ">
+                    <a href="interior.php">
+                        <div class="thumb">
+                            <div class="hover-effect">
+                                <div class="hover-content">
+                                    <h1>Luxury Hotel <em>Dambulla</em></h1>
+                                    <!-- <p>Small Description Goes Here</p> -->
+                                </div>
+                            </div>
+                            <div class="image">
+                                <img src="img/portfolio/commercial/dambulla/5.webp">
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div   class="portfolio-item ">
+                    <a href="senarath.php">
+                        <div class="thumb">
+                            <div class="hover-effect">
+                                <div class="hover-content">
+                                    <h1>Senarath  <em>Group</em></h1>
+                                    <!-- <p>Small Description Goes Here</p> -->
+                                </div>
+                            </div>
+                            <div class="image">
+                                <img src="img/portfolio/commercial/senerath/1.webp">
                             </div>
                         </div>
                     </a>

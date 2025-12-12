@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>D & D</title>
+    <meta
+      name="description"
+      content="Project case study and portfolio entry for an architecture firm"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="css/fontAwesome.css" />
+    <link rel="stylesheet" href="css/light-box.css" />
+    <link rel="stylesheet" href="css/templatemo-style.css" />
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Kanit:100,200,300,400,500,600,700,800,900"
+      rel="stylesheet"
+    />
+
+    <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    <style>
+      /* Small style additions for architecture portfolio feel */
+      .project-meta {
+        margin: 18px 0;
+        font-size: 14px;
+        color: #666;
+      }
+      .project-metadata {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+      .project-metadata li {
+        display: inline-block;
+        margin-right: 18px;
+      }
+      .project-summary {
+        font-size: 16px;
+        line-height: 1.8;
+        color: #333;
+      }
+      .project-gallery .thumb img {
+        width: 100%;
+        height: auto;
+        display: block;
+      }
+      .project-tags a {
+        text-decoration: none;
+      }
+      .cursor {
+        width: 18px;
+        height: 18px;
+        position: fixed;
+        pointer-events: none;
+        border-radius: 50%;
+        transform: translate(-50%, -50%);
+        background: rgba(0, 0, 0, 0.6);
+        z-index: 9999;
+        mix-blend-mode: difference;
+      }
+      .cursor.hover {
+        transform: translate(-50%, -50%) scale(1.7);
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- ======= Header ======= -->
+    <?php include 'header.php';?>
+    <!-- End Header -->
+    <div class="cursor"></div>
+
+    <div class="page-heading">
+      <div class="container">
+        <div class="heading-content">
+          <h1>Senarath Group  </h1>
+          <!-- <p class="sub">A closer look at our built work and design intent</p> -->
+        </div>
+      </div>
+    </div>
+
+    <div class="blog-entries">
+      <div class="container">
+        <div class="col-md-12">
+          <div class="blog-posts">
+            <div class="row">
+              <div class="col-md-12">
+                <article class="single-blog-post">
+                  <img src="img/portfolio/commercial/senerath/1.webp" alt="Project main image" />
+                  <div class="text-content">
+                    <h2>
+                     Senarath Group - Paving & Landscape Development (Design Description)
+                    </h2>
+                 <div class="project-meta">
+                                        <ul class="project-metadata">
+                                            <li><strong>Client:</strong> LUXURY HOTEL Dambulla</li>
+                                            <li><strong>Location:</strong>  Dambulla</li>
+                                            <li><strong>Date:</strong> July 1, 2022</li>
+                                            <li><strong>Area:</strong> 510sqft <sup></sup></li>
+                                        </ul>
+                                    </div> 
+
+                    <p class="project-summary">
+                    The paving and landscape design for the Senarath Group premises is developed as a seamless extension of the natural terrain, combining functional circulation with a refined outdoor aesthetic.
+                    </p>
+
+                    <!-- <h3>Design Intent</h3> -->
+                    <p>
+                    The site is carefully levelled to create smooth transitions between pedestrian paths, vehicular access zones, and landscaped green pockets—achieving both accessibility and visual balance across the property. A central waterbody acts as the focal feature, softening the hardscape and introducing movement, reflections, and a cooling microclimate to the environment. 
+                    </p>
+                      <p>
+                    The paving layout uses a disciplined geometric pattern, integrating textured finishes, joint details, and tonal variations to guide movement while enhancing durability and slip resistance. 
+                    </p>
+                      <p>
+                    Planting zones, boundary edging, and subtle lighting are strategically placed to frame the water feature, accent the paving design, and emphasize the overall spatial rhythm. The result is a cohesive landscape that elevates the corporate identity of Senarath Group—uniting functionality, resilience, and a calm, contemporary outdoor character.
+                    </p>
+
+                    <!-- <h3>Scope & Services</h3> -->
+                    <!-- <ul>
+                                        <li>Architectural concept, detailed design and contract administration</li>
+                                        <li>Interior design and furniture layout</li>
+                                        <li>Landscape design for the public courtyard</li>
+                                        <li>Coordination with structural and MEP consultants</li>
+                                    </ul> -->
+
+                    
+                    <p><a href="portfolio.php">Back to Portfolio</a></p>
+
+                   
+                    <!-- <div class="tags-share">
+                      <div class="row">
+                        <div class="col-md-6">
+                          <ul class="tags project-tags">
+                            <li>Tags:</li>
+                            <li><a href="#">architecture</a>,</li>
+                            <li><a href="#">adaptive reuse</a>,</li>
+                            <li><a href="#">sustainable design</a></li>
+                          </ul>
+                        </div>
+                        <div class="col-md-6">
+                          <ul class="share">
+                            <li>Share:</li>
+                            <li><a href="#">facebook</a>,</li>
+                            <li><a href="#">twitter</a>,</li>
+                            <li><a href="#">linkedin</a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>  -->
+                  </div>
+                </article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="full-screen-portfolio project-gallery" id="portfolio">
+        <div class="container-fluid">
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <a href="img/portfolio/commercial/senerath/1.webp" data-lightbox="image-1"
+                ><div class="thumb">
+                  <div class="hover-effect">
+                    <div class="hover-content">
+                      <!-- <h1>Riverside <em>Courtyard</em></h1>
+                      <p>Public landscape and seating</p> -->
+                    </div>
+                  </div>
+                  <div class="image">
+                    <img src="img/portfolio/commercial/senerath/1.webp" alt="courtyard image" />
+                  </div></div
+              ></a>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <a href="img/portfolio/commercial/senerath/2.webp" data-lightbox="image-1"
+                ><div class="thumb">
+                  <div class="hover-effect">
+                    <div class="hover-content">
+                      <!-- <h1>Riverside <em>Courtyard</em></h1>
+                      <p>Public landscape and seating</p> -->
+                    </div>
+                  </div>
+                  <div class="image">
+                    <img src="img/portfolio/commercial/senerath/2.webp" alt="courtyard image" />
+                  </div></div
+              ></a>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <a href="img/portfolio/commercial/senerath/3.webp" data-lightbox="image-1"
+                ><div class="thumb">
+                  <div class="hover-effect">
+                    <div class="hover-content">
+                      <!-- <h1>Riverside <em>Courtyard</em></h1>
+                      <p>Public landscape and seating</p> -->
+                    </div>
+                  </div>
+                  <div class="image">
+                    <img src="img/portfolio/commercial/senerath/3.webp" alt="courtyard image" />
+                  </div></div
+              ></a>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <a href="img/portfolio/commercial/senerath/4.webp" data-lightbox="image-1"
+                ><div class="thumb">
+                  <div class="hover-effect">
+                    <div class="hover-content">
+                      <!-- <h1>Riverside <em>Courtyard</em></h1>
+                      <p>Public landscape and seating</p> -->
+                    </div>
+                  </div>
+                  <div class="image">
+                    <img src="img/portfolio/commercial/senerath/4.webp" alt="courtyard image" />
+                  </div></div
+              ></a>
+            </div>
+          </div>
+          
+        
+
+        
+        </div>
+      </div>
+    </div>
+
+    <!-- ======= Footer ======= -->
+    <?php include 'footer.php';?>
+    <!-- End Footer -->
+
+    <!-- ======= Contact Modal ======= -->
+    <?php include 'form-modal.php';?>
+    <!-- End Contact Modal -->
+
+    <!-- ======= Side Menu ======= -->
+    <?php include 'sidemenu.php';?>
+    <!-- ESide Menu -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script>
+      window.jQuery ||
+        document.write(
+          '<script src="js/vendor/jquery-1.11.2.min.js"><\/script>'
+        );
+    </script>
+
+    <script src="js/vendor/bootstrap.min.js"></script>
+
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+      const cursor = document.querySelector(".cursor");
+
+      document.addEventListener("mousemove", (e) => {
+        cursor.style.top = e.clientY + "px";
+        cursor.style.left = e.clientX + "px";
+      });
+
+      document.querySelectorAll("a, button, .interactive").forEach((el) => {
+        el.addEventListener("mouseenter", () => cursor.classList.add("hover"));
+        el.addEventListener("mouseleave", () =>
+          cursor.classList.remove("hover")
+        );
+      });
+    </script>
+  </body>
+</html>
