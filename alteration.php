@@ -79,7 +79,7 @@
     <div class="page-heading">
       <div class="container">
         <div class="heading-content">
-          <h1>Sumedha Mobile </h1>
+          <h1>Addition & Alteration to Existing House  </h1>
           <!-- <p class="sub">A closer look at our built work and design intent</p> -->
         </div>
       </div>
@@ -92,28 +92,33 @@
             <div class="row">
               <div class="col-md-12">
                 <article class="single-blog-post">
-                  <img src="img/portfolio/commercial/sumedha/6.webp" alt="Project main image" />
+                  <img src="img/portfolio/commercial/alteration/1.webp" alt="Project main image" />
                   <div class="text-content">
                     <h2>
-                     Sumedha Mobile – 5-Storey Commercial & Residential Development, Kurunegala (Ongoing Project)
+                    Addition & Alteration to Existing House
                     </h2>
                  <div class="project-meta">
                                         <ul class="project-metadata">
-                                            <li><strong>Client:</strong> Sumedha Mobile</li>
-                                            <li><strong>Location:</strong>  Kurunegala</li>
-                                            <li><strong>Date:</strong> November 30, 2022</li>
-                                            <li><strong>Area:</strong> 32𝑃 <sup></sup></li>
+                                            <li><strong>Client:</strong>Anura Kumara Bandara</li>
+                                            <li><strong>Location:</strong> Rathkarawwa Kurunegala</li>
+                                            <li><strong>Date:</strong> October 30, 2021</li>
+                                            <!-- <li><strong>Area:</strong> 45.0 P <sup></sup></li> -->
                                         </ul>
                                     </div> 
 
                     <p class="project-summary">
-                     This five-storey mixed-use development, located on a 32-perch property in the heart of Kurunegala, is designed to house a fully integrated mobile retail, repair, wholesale, and residential facility under one cohesive architectural vision. The project combines functionality with a modern commercial identity, creating a landmark building that supports high customer flow, smooth internal circulation, and efficient operational zoning for a fast-paced retail environment.
+                   Ongoing project enhancing an existing home with thoughtful interventions that improve functionality, flow, and daylight penetration. The design carefully blends contemporary elements with the original structure, using a palette of refined finishes, custom-built furniture, and complementary textures.
                     </p>
 
                     <!-- <h3>Design Intent</h3> -->
                     <p>
-                      At ground and showroom levels, the design emphasizes a clean, high-visibility layout featuring branded display zones, illuminated product shelving, organized demo tables, and strong line-of-sight between product categories. Contrasting materials, warm flooring, and controlled lighting are used to guide customer movement while enhancing the premium retail experience. Dedicated areas for Samsung, Xiaomi, Realme, and Vivo are clearly defined through color, lighting, and backdrop elements, giving the shop a professional and organized commercial presence.
+                Lighting, materials, and spatial organization are orchestrated to create a harmonious, welcoming, and modernized living environment.
+
                     </p>
+                      <p>
+                 Scope & Services: Architectural design for additions and alterations, interior layout optimization, material and finish consultation, custom furniture design, lighting planning, and hands-on site supervision to ensure seamless integration with the existing structure.
+                    </p>
+                    
 
                     <!-- <h3>Scope & Services</h3> -->
                     <!-- <ul>
@@ -123,15 +128,7 @@
                                         <li>Coordination with structural and MEP consultants</li>
                                     </ul> -->
 
-                    <p class="project-summary">
-                     The repair and wholesale levels are planned for maximum efficiency—featuring structured workstations, optimized storage zones, and controlled access to ensure smooth workflow. The underground level accommodates a full storage facility for bulk electronics and accessories, supporting large-scale wholesale operations. Upper floors include a residential apartment with privacy, natural ventilation, and a quieter vertical separation from commercial activities. Parking and landscaped pockets at the site entrance help manage visitors, deliveries, and customer vehicles within the town’s tight urban fabric.
-                    </p>
-                    <p class="project-summary">
-                     Overall, the development is conceived as a modern vertical commercial hub—bringing together retail, service, storage, wholesale, and living under one well-planned building. It enhances brand presence, improves customer experience, and supports long-term operational growth for Sumedha Mobile.
-                    </p>
-                    <p class="project-summary">
-                    Scope & Services: Complete architectural design, retail space planning, brand-oriented interior concepts, workflow & productivity zoning, façade development, lighting layout, furniture and fixture planning, service floor design, storage and logistics planning, MEP coordination, parking and vehicle flow design, landscape integration, and full ongoing site supervision.
-                    </p>
+                    
                     <p><a href="portfolio.php">Back to Portfolio</a></p>
 
                    
@@ -169,7 +166,7 @@
         <div class="container-fluid">
           <div class="col-md-4 col-sm-6">
             <div class="portfolio-item">
-              <a href="img/portfolio/commercial/sumedha/1.webp" data-lightbox="image-1"
+              <a href="img/portfolio/commercial/alteration/1.webp" data-lightbox="image-1"
                 ><div class="thumb">
                   <div class="hover-effect">
                     <div class="hover-content">
@@ -178,14 +175,14 @@
                     </div>
                   </div>
                   <div class="image">
-                    <img src="img/portfolio/commercial/sumedha/1.webp" alt="courtyard image" />
+                    <img src="img/portfolio/commercial/alteration/1.webp" alt="courtyard image" />
                   </div></div
               ></a>
             </div>
           </div>
           <div class="col-md-4 col-sm-6">
             <div class="portfolio-item">
-              <a href="img/portfolio/commercial/sumedha/2.webp" data-lightbox="image-1"
+              <a href="img/portfolio/commercial/alteration/2.webp" data-lightbox="image-1"
                 ><div class="thumb">
                   <div class="hover-effect">
                     <div class="hover-content">
@@ -194,14 +191,14 @@
                     </div>
                   </div>
                   <div class="image">
-                    <img src="img/portfolio/commercial/sumedha/2.webp" alt="courtyard image" />
+                    <img src="img/portfolio/commercial/alteration/2.webp" alt="courtyard image" />
                   </div></div
               ></a>
             </div>
           </div>
           <div class="col-md-4 col-sm-6">
             <div class="portfolio-item">
-              <a href="img/portfolio/commercial/sumedha/3.webp" data-lightbox="image-1"
+              <a href="img/portfolio/commercial/alteration/3.webp" data-lightbox="image-1"
                 ><div class="thumb">
                   <div class="hover-effect">
                     <div class="hover-content">
@@ -210,14 +207,14 @@
                     </div>
                   </div>
                   <div class="image">
-                    <img src="img/portfolio/commercial/sumedha/3.webp" alt="courtyard image" />
+                    <img src="img/portfolio/commercial/alteration/3.webp" alt="courtyard image" />
                   </div></div
               ></a>
             </div>
           </div>
           <div class="col-md-4 col-sm-6">
             <div class="portfolio-item">
-              <a href="img/portfolio/commercial/sumedha/4.webp" data-lightbox="image-1"
+              <a href="img/portfolio/commercial/alteration/4.webp" data-lightbox="image-1"
                 ><div class="thumb">
                   <div class="hover-effect">
                     <div class="hover-content">
@@ -226,14 +223,14 @@
                     </div>
                   </div>
                   <div class="image">
-                    <img src="img/portfolio/commercial/sumedha/4.webp" alt="courtyard image" />
+                    <img src="img/portfolio/commercial/alteration/4.webp" alt="courtyard image" />
                   </div></div
               ></a>
             </div>
           </div>
           <div class="col-md-4 col-sm-6">
             <div class="portfolio-item">
-              <a href="img/portfolio/commercial/sumedha/5.webp" data-lightbox="image-1"
+              <a href="img/portfolio/commercial/alteration/5.webp" data-lightbox="image-1"
                 ><div class="thumb">
                   <div class="hover-effect">
                     <div class="hover-content">
@@ -242,14 +239,14 @@
                     </div>
                   </div>
                   <div class="image">
-                    <img src="img/portfolio/commercial/sumedha/5.webp" alt="courtyard image" />
+                    <img src="img/portfolio/commercial/alteration/5.webp" alt="courtyard image" />
                   </div></div
               ></a>
             </div>
           </div>
           <div class="col-md-4 col-sm-6">
             <div class="portfolio-item">
-              <a href="img/portfolio/commercial/sumedha/6.webp" data-lightbox="image-1"
+              <a href="img/portfolio/commercial/alteration/6.webp" data-lightbox="image-1"
                 ><div class="thumb">
                   <div class="hover-effect">
                     <div class="hover-content">
@@ -258,14 +255,14 @@
                     </div>
                   </div>
                   <div class="image">
-                    <img src="img/portfolio/commercial/sumedha/6.webp" alt="courtyard image" />
+                    <img src="img/portfolio/commercial/alteration/6.webp" alt="courtyard image" />
                   </div></div
               ></a>
             </div>
           </div>
           <div class="col-md-4 col-sm-6">
             <div class="portfolio-item">
-              <a href="img/portfolio/commercial/sumedha/7.webp" data-lightbox="image-1"
+              <a href="img/portfolio/commercial/alteration/7.webp" data-lightbox="image-1"
                 ><div class="thumb">
                   <div class="hover-effect">
                     <div class="hover-content">
@@ -274,14 +271,14 @@
                     </div>
                   </div>
                   <div class="image">
-                    <img src="img/portfolio/commercial/sumedha/7.webp" alt="courtyard image" />
+                    <img src="img/portfolio/commercial/alteration/7.webp" alt="courtyard image" />
                   </div></div
               ></a>
             </div>
           </div>
           <div class="col-md-4 col-sm-6">
             <div class="portfolio-item">
-              <a href="img/portfolio/commercial/sumedha/8.webp" data-lightbox="image-1"
+              <a href="img/portfolio/commercial/alteration/8.webp" data-lightbox="image-1"
                 ><div class="thumb">
                   <div class="hover-effect">
                     <div class="hover-content">
@@ -290,11 +287,29 @@
                     </div>
                   </div>
                   <div class="image">
-                    <img src="img/portfolio/commercial/sumedha/8.webp" alt="courtyard image" />
+                    <img src="img/portfolio/commercial/alteration/8.webp" alt="courtyard image" />
                   </div></div
               ></a>
             </div>
           </div>
+          <div class="col-md-4 col-sm-6">
+            <div class="portfolio-item">
+              <a href="img/portfolio/commercial/alteration/9.webp" data-lightbox="image-1"
+                ><div class="thumb">
+                  <div class="hover-effect">
+                    <div class="hover-content">
+                      <!-- <h1>Riverside <em>Courtyard</em></h1>
+                      <p>Public landscape and seating</p> -->
+                    </div>
+                  </div>
+                  <div class="image">
+                    <img src="img/portfolio/commercial/alteration/9.webp" alt="courtyard image" />
+                  </div></div
+              ></a>
+            </div>
+          </div>
+          
+        
 
         
         </div>

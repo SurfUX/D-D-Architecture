@@ -15,6 +15,7 @@ https://templatemo.com/tm-520-highway
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
+     <link href="img/favicon.png" rel="icon">
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
@@ -117,126 +118,176 @@ https://templatemo.com/tm-520-highway
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
-                <div class="portfolio-item">
-                    <a href="img/portfolio_3.webp" data-lightbox="image-1">
+                <div   class="portfolio-item ">
+                    <a href="stage.php">
                         <div class="thumb">
                             <div class="hover-effect">
                                 <div class="hover-content">
-                                    <h1>Project <em>Title</em></h1>
-                                    <p>Small Description Goes Here</p>
+                                    <h1>Stage  <em>House</em></h1>
+                                    <!-- <p>Small Description Goes Here</p> -->
                                 </div>
                             </div>
                             <div class="image">
-                                <img src="img/portfolio_3.webp">
+                                <img src="img/portfolio/commercial/stage/1.webp">
                             </div>
                         </div>
                     </a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
-                <div class="portfolio-item">
-                    <a href="img/portfolio_4.webp" data-lightbox="image-1">
+                <div   class="portfolio-item ">
+                    <a href="cage.php">
                         <div class="thumb">
                             <div class="hover-effect">
                                 <div class="hover-content">
-                                    <h1>Project <em>Title</em></h1>
-                                    <p>Small Description Goes Here</p>
+                                    <h1>Cage  <em>House</em></h1>
+                                    <!-- <p>Small Description Goes Here</p> -->
                                 </div>
                             </div>
                             <div class="image">
-                                <img src="img/portfolio_4.webp">
+                                <img src="img/portfolio/commercial/cage/1.webp">
                             </div>
                         </div>
                     </a>
                 </div>
             </div>
-
-            <div class="col-md-4 col-sm-6">
-                <div class="portfolio-item">
-                    <a href="img/portfolio_5.webp" data-lightbox="image-1">
+             <div class="col-md-4 col-sm-6">
+                <div   class="portfolio-item ">
+                    <a href="stage.php">
                         <div class="thumb">
                             <div class="hover-effect">
                                 <div class="hover-content">
-                                    <h1>Project <em>Title</em></h1>
-                                    <p>Small Description Goes Here</p>
+                                    <h1>Stage  <em>House</em></h1>
+                                    <!-- <p>Small Description Goes Here</p> -->
                                 </div>
                             </div>
                             <div class="image">
-                                <img src="img/portfolio_5.webp">
+                                <img src="img/portfolio/commercial/stage/1.webp">
                             </div>
                         </div>
                     </a>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6">
-                <div class="portfolio-item">
-                    <a href="img/portfolio_6.webp" data-lightbox="image-1">
+             <div class="col-md-4 col-sm-6">
+                <div   class="portfolio-item ">
+                    <a href="alteration.php">
                         <div class="thumb">
                             <div class="hover-effect">
                                 <div class="hover-content">
-                                    <h1>Project <em>Title</em></h1>
-                                    <p>Small Description Goes Here</p>
+                                    <h1>Alteration  <em>House</em></h1>
+                                    <!-- <p>Small Description Goes Here</p> -->
                                 </div>
                             </div>
                             <div class="image">
-                                <img src="img/portfolio_6.webp">
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-                <div class="portfolio-item">
-                    <a href="img/portfolio_7.webp" data-lightbox="image-1">
-                        <div class="thumb">
-                            <div class="hover-effect">
-                                <div class="hover-content">
-                                    <h1>Project <em>Title</em></h1>
-                                    <p>Small Description Goes Here</p>
-                                </div>
-                            </div>
-                            <div class="image">
-                                <img src="img/portfolio_7.webp">
+                                <img src="img/portfolio/commercial/alteration/1.webp">
                             </div>
                         </div>
                     </a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
-                <div class="portfolio-item">
-                    <a href="img/portfolio_8.webp" data-lightbox="image-1">
+                <div   class="portfolio-item ">
+                    <a href="shehan.php">
                         <div class="thumb">
                             <div class="hover-effect">
                                 <div class="hover-content">
-                                    <h1>Project <em>Title</em></h1>
-                                    <p>Small Description Goes Here</p>
+                                    <h1>Shehan <em>Solar</em></h1>
+                                    <!-- <p>Small Description Goes Here</p> -->
                                 </div>
                             </div>
                             <div class="image">
-                                <img src="img/portfolio_8.webp">
+                                <img src="img/portfolio/commercial/shehan/1.webp">
                             </div>
                         </div>
                     </a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
-                <div class="portfolio-item">
-                    <a href="img/portfolio_9.webp" data-lightbox="image-1">
+                <div   class="portfolio-item ">
+                    <a href="victory.php">
                         <div class="thumb">
                             <div class="hover-effect">
                                 <div class="hover-content">
-                                    <h1>Project <em>Title</em></h1>
-                                    <p>Small Description Goes Here</p>
+                                    <h1>Victory Garden <em>House</em></h1>
+                                    <!-- <p>Small Description Goes Here</p> -->
                                 </div>
                             </div>
                             <div class="image">
-                                <img src="img/portfolio_9.webp">
+                                <img src="img/portfolio/commercial/victory/1.webp">
                             </div>
                         </div>
                     </a>
                 </div>
             </div>
-
+             <div class="col-md-4 col-sm-6">
+                <div   class="portfolio-item ">
+                    <a href="australia.php">
+                        <div class="thumb">
+                            <div class="hover-effect">
+                                <div class="hover-content">
+                                    <h1>Australian Housing  <em>Concept</em></h1>
+                                    <!-- <p>Small Description Goes Here</p> -->
+                                </div>
+                            </div>
+                            <div class="image">
+                                <img src="img/portfolio/commercial/australia/1.webp">
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+             <div class="col-md-4 col-sm-6">
+                <div   class="portfolio-item ">
+                    <a href="hillsite.php">
+                        <div class="thumb">
+                            <div class="hover-effect">
+                                <div class="hover-content">
+                                    <h1>HILL   <em>SITE</em></h1>
+                                    <!-- <p>Small Description Goes Here</p> -->
+                                </div>
+                            </div>
+                            <div class="image">
+                                <img src="img/portfolio/commercial/hillsite/1.webp">
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+             <div class="col-md-4 col-sm-6">
+                <div   class="portfolio-item ">
+                    <a href="oak.php">
+                        <div class="thumb">
+                            <div class="hover-effect">
+                                <div class="hover-content">
+                                    <h1>Oak<em>Barn</em></h1>
+                                    <!-- <p>Small Description Goes Here</p> -->
+                                </div>
+                            </div>
+                            <div class="image">
+                                <img src="img/portfolio/commercial/oak/1.webp">
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div   class="portfolio-item ">
+                    <a href="two.php">
+                        <div class="thumb">
+                            <div class="hover-effect">
+                                <div class="hover-content">
+                                    <h1>Two<em> House</em></h1>
+                                    <!-- <p>Small Description Goes Here</p> -->
+                                </div>
+                            </div>
+                            <div class="image">
+                                <img src="img/portfolio/commercial/two/1.webp">
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+           
 
 
         </div>
