@@ -97,7 +97,7 @@
                   <img src="img/portfolio/commercial/two/1.webp" alt="Project main image" />
                   <div class="text-content">
                     <h2>
-         TWO HOUSE  ONGOING PROJECT  - Rentable Two House Units
+                    TWO HOUSE  ONGOING PROJECT  - Rentable Two House Units
                     </h2>
                  <div class="project-meta">
                                         <ul class="project-metadata">
@@ -106,7 +106,10 @@
                                             <li><strong>Date:</strong>January 8, 2022</li>
                                              <li><strong>Area:</strong> 08.5P<sup></sup></li>
                                         </ul>
-                                    </div> 
+                  </div> 
+                  <div class="container my-5">
+
+</div>
 
                     <!-- <p class="project-summary">
                    Minimal-damage renovation of an existing house in Millawa, designed to enhance spatial flow, natural light, and functionality while preserving the original structure. Stone and timber finishes complement the home’s existing textures, while custom furniture and storage solutions are integrated seamlessly. Wall treatments, fabrics, and lighting are carefully selected to create a cohesive, warm, and contemporary interior that respects the original character.

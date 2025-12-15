@@ -22,6 +22,8 @@
       href="https://fonts.googleapis.com/css?family=Kanit:100,200,300,400,500,600,700,800,900"
       rel="stylesheet"
     />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+
 
     <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     <style>
@@ -164,8 +166,100 @@
                       receiving his Charter in 2024, he established his
                       independent practice, now based in Kurunegala, Sri Lanka.
                     </p>
-                    <p><a href="blog.html">Back to Portfolio</a></p>
+                    <!-- <p><a href="blog.html">Back to Portfolio</a></p> -->
+                     <div>
+      <section id="team" class="team section">
 
+      <!-- Section Title -->
+      <div class="container section-title aos-init aos-animate" data-aos="fade-up">
+        <h2>Team</h2>
+        <p>Our Hardworking Team</p>
+      </div><!-- End Section Title -->
+
+      <div class="container aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-3 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+            <div class="member-card">
+              <div class="member-image-wrapper">
+                <img src="img/team-1.jpg" class="img-fluid" alt="Team Member">
+              </div>
+              <div class="member-content">
+                <h4 class="member-name">Suren Dissanayake</h4>
+                <span class="member-role">B.Arch(Hons.) AIA(SL)</span>
+                <!-- <p class="member-bio">Praesentium nihil ut laudantium cumque. Ut et consequatur ab ut totam architecto. Expedita sunt eum</p> -->
+                <div class="member-socials">
+                  <a href="#"><i class="bi bi-twitter-x"></i></a>
+                  <a href="#"><i class="bi bi-facebook"></i></a>
+                  <a href="#"><i class="bi bi-linkedin"></i></a>
+                  <a href="#"><i class="bi bi-instagram"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-3 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+            <div class="member-card">
+              <div class="member-image-wrapper">
+                <img src="img/team-2.jpg" class="img-fluid" alt="Team Member">
+              </div>
+              <div class="member-content">
+                <h4 class="member-name">Buddhike Dissanayake</h4>
+                <span class="member-role">BSc. Eng (Hons.), CEng., MIE(SL),MSc (Sustainable Built Environment), AMSSE(SL),</span>
+                <!-- <p class="member-bio">Voluptas qui enim omnis est atque. Enim sunt quo et amet corporis et. Autem eaque optio.</p> -->
+                <div class="member-socials">
+                  <a href="#"><i class="bi bi-twitter-x"></i></a>
+                  <a href="#"><i class="bi bi-facebook"></i></a>
+                  <a href="#"><i class="bi bi-linkedin"></i></a>
+                  <a href="#"><i class="bi bi-github"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-3 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+            <div class="member-card">
+              <div class="member-image-wrapper">
+                <img src="img/team-3.jpg" class="img-fluid" alt="Team Member">
+              </div>
+              <div class="member-content">
+                <h4 class="member-name">Ishara Wijenayaka</h4>
+                <span class="member-role">Draughtsman, NCT(QS)</span>
+                <!-- <p class="member-bio">Qui ut autem quo error molestiae. Voluptatem quia eligendi voluptatibus beatae vitae et quis. Quis voluptatem.</p> -->
+                <div class="member-socials">
+                  <a href="#"><i class="bi bi-twitter-x"></i></a>
+                  <a href="#"><i class="bi bi-instagram"></i></a>
+                  <a href="#"><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-3 col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+            <div class="member-card">
+              <div class="member-image-wrapper">
+                <img src="img/team-4.jpg" class="img-fluid" alt="Team Member">
+              </div>
+              <div class="member-content">
+                <h4 class="member-name">Sadamali Gunawardhana</h4>
+                <span class="member-role">Draughtsman & IVQ Civil</span>
+                <!-- <p class="member-bio">Rerum et sint voluptatem enim aut. Quisquam et alias ut qui voluptatum. Autem voluptas exercitationem.</p> -->
+                <div class="member-socials">
+                  <a href="#"><i class="bi bi-linkedin"></i></a>
+                  <a href="#"><i class="bi bi-github"></i></a>
+                  <a href="#"><i class="bi bi-stack-overflow"></i></a>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+        </div>
+
+      </div>
+
+    </section>
+    </div>
                     <h3>Scope & Services</h3>
                     <p>
                       At D&D Architects, our work extends far beyond building
@@ -349,9 +443,10 @@
           </div>
         </div>
       </div>
+      
     </div>
-
-    <div class="row">
+   
+    <!-- <div class="row">
       <div class="full-screen-portfolio project-gallery" id="portfolio">
         <div class="container-fluid">
           <div class="col-md-4 col-sm-6">
@@ -436,7 +531,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <!-- ======= Footer ======= -->
     <?php include 'footer.php';?>
