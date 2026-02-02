@@ -16,6 +16,10 @@
         <link rel="stylesheet" href="css/fontAwesome.css">
         <link rel="stylesheet" href="css/light-box.css">
         <link rel="stylesheet" href="css/templatemo-style.css">
+        <link 
+  rel="stylesheet" 
+  href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.css" 
+>
 
         <link href="https://fonts.googleapis.com/css?family=Kanit:100,200,300,400,500,600,700,800,900" rel="stylesheet">
 
@@ -41,9 +45,9 @@
                 </div>    
             </div>
         </div>
-        <video autoplay="" loop="" muted>
-        	<source src="highway-loop.mp4" type="video/mp4" />
-        </video>
+        <video autoplay muted loop playsinline preload="auto" poster="img/video-poster.jpg">
+    <source src="highway-loop.mp4" type="video/mp4">
+</video>
     </div>
 
 
