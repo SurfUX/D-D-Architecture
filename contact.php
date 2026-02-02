@@ -120,7 +120,7 @@
             <div class="info-box">
               <i class="bi bi-envelope"></i>
               <h3>Email Us</h3>
-              <p>D&Darchitects.com<br>ddarchitectsku@gmail.com</p>
+              <p>ddarchitectsku@gmail.com</p>
             </div>
           </div>
         </div>
